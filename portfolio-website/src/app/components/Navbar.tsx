@@ -11,13 +11,16 @@ const Navbar = () => {
         </Link>
         <ul className="flex gap-6 text-sm font-medium text-gray-200 ">
           <li>
-            <Link href="/" className='transition-all duration-300 ease-in-out transform hover:scale-105 hover:text-white'>Home</Link>
+            <Link href="/" className='transition-all duration-300 ease-in-out transform hover:scale-105 hover:text-white'>Experience</Link>
           </li>
           <li>
             <Link href="/about" className='transition-all duration-300 ease-in-out transform hover:scale-105 hover:text-white'>About</Link>
           </li>
           <li>
             <Link href="/projects" className='transition-all duration-300 ease-in-out transform hover:scale-105 hover:text-white'>Projects</Link>
+          </li>
+          <li>
+            <Link href="/resume" className='transition-all duration-300 ease-in-out transform hover:scale-105 hover:text-white'>Resume</Link>
           </li>
           <li>
             <Link href="/contact" className='transition-all duration-300 ease-in-out transform hover:scale-105 hover:text-white'>Contact</Link>
