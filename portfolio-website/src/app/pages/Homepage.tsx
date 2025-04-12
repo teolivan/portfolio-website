@@ -19,7 +19,7 @@ const Home = () => {
                 <p
                     className={`text-gray-600 transition-all duration-1200 ease-out delay-300 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}
                 >
-                    Hello!👋 My name is Olivia, and I am a second year student at Malmoe University, studying systems engineering.
+                    Hello!👋 My name is Olivia, and I am a second year student at Malmö University, studying systems engineering.
                 </p>
             </div>
         </div>
