@@ -38,36 +38,30 @@ const page = () => {
                         <br />
 
                         My current focus is to gain more knowledge of embedded systems programming and AI.  
-                    </p>
-                    <br />
-                    <p className='font-bold p-2'>
-                        Linkedin: <a href="https://www.linkedin.com/in/olivia-svenssons/" className="text-blue-600 underline font-medium"
-                            target="_blank"
-                            rel="noopener noreferrer">https://www.linkedin.com/in/olivia-svenssons/</a>
-                    </p>
-                    <p className='font-bold p-2'>
-                        Github: <a href="https://github.com/teolivan" className="text-blue-600 underline font-medium"
-                            target="_blank"
-                            rel="noopener noreferrer">https://github.com/teolivan</a>
-                    </p>
+                   </p>
+                   <br />
 
-                    <p className='font-bold p-2'>
-                        Codewars: <a href="https://www.codewars.com/users/teolivan" className="text-blue-600 underline font-medium"
-                            target="_blank"
-                            rel="noopener noreferrer">https://www.codewars.com/users/teolivan</a>
-                    </p>
+                    <div className="flex justify-center space-x-4 py-8 items-baseline">
+                        <a href="https://www.linkedin.com/in/olivia-svenssons/" className="text-blue-600 underline font-medium" target="_blank" rel="noopener noreferrer">
+                            <img src="linkedin1.svg" alt="Linkedin icon" className="h-10 m-5 align-baseline" />
+                        </a>
 
-                    <p className='font-bold p-2'>
-                        Leetcode: <a href="https://leetcode.com/u/teoliva/" className="text-blue-600 underline font-medium"
-                            target="_blank"
-                            rel="noopener noreferrer">https://leetcode.com/u/teoliva/</a>
-                    </p>
+                        <a href="https://github.com/teolivan" className="text-blue-600 underline font-medium" target="_blank" rel="noopener noreferrer">
+                            <img src="github.svg" alt="Github icon" className="h-10 m-5 align-baseline" />
+                        </a>
 
-                    <p className='font-bold p-2'>
-                        OpenProcessing: <a href="https://openprocessing.org/user/346710?view=sketches" className="text-blue-600 underline font-medium"
-                            target="_blank"
-                            rel="noopener noreferrer">https://openprocessing.org/user/346710?view=sketches</a>
-                    </p>
+                        <a href="https://www.codewars.com/users/teolivan" className="text-blue-600 underline font-medium" target="_blank" rel="noopener noreferrer">
+                            <img src="codewars.svg" alt="Codewars icon" className="h-10 m-5 align-baseline" />
+                        </a>
+
+                        <a href="https://leetcode.com/u/teoliva/" className="text-blue-600 underline font-medium" target="_blank" rel="noopener noreferrer">
+                            <img src="leetcode.svg" alt="Leetcode icon" className="h-10 m-5 align-baseline" />
+                        </a>
+
+                        <a href="https://openprocessing.org/user/346710?view=sketches" className="text-blue-600 underline font-medium" target="_blank" rel="noopener noreferrer">
+                            <img src="p5dotjs.svg" alt="p5js icon" className="h-10 m-5 align-baseline" />
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
