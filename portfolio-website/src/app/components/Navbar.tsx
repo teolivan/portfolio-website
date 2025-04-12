@@ -7,9 +7,13 @@ const Navbar = () => {
         <nav className="w-full px-6 py-4 bg-cyan-900 shadow-sm ">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <Link href="/" className="hover:scale-105 transition-all duration-300 text-xl font-semibold text-gray-200 font-montserrat hover:text-white">
-          My Portfolio
+          Olivia
         </Link>
         <ul className="flex gap-6 text-sm font-medium text-gray-200 ">
+
+        <li>
+            <Link href="/" className='transition-all duration-300 ease-in-out transform hover:scale-105 hover:text-white'>Home</Link>
+          </li>
           <li>
             <Link href="/experience" className='transition-all duration-300 ease-in-out transform hover:scale-105 hover:text-white'>Experience</Link>
           </li>
