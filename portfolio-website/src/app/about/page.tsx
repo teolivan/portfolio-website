@@ -10,8 +10,8 @@ const page = () => {
                 About
             </h1>
             <div className="flex justify-center px-4 py-8">
-                <div className='max-w-3xl w-full bg-white p-6 rounded-xl shadow-lg'>
-                    <p className='text-gray-600 leading-relaxed text-center'>
+                <div className='max-w-3xl w-full bg-white p-6 rounded-xl shadow-lg text-gray-600 leading-relaxed text-center'>
+                    <p className=''>
                         Hello!👋 My name is Olivia.  
                         I am studying my second year of the program     <a 
                             href="https://mau.se/sok-utbildning/program/tgsya/" 
@@ -38,6 +38,35 @@ const page = () => {
                         <br />
 
                         My current focus is to gain more knowledge of embedded systems programming and AI.  
+                    </p>
+                    <br />
+                    <p className='font-bold p-2'>
+                        Linkedin: <a href="https://www.linkedin.com/in/olivia-svenssons/" className="text-blue-600 underline font-medium"
+                            target="_blank"
+                            rel="noopener noreferrer">https://www.linkedin.com/in/olivia-svenssons/</a>
+                    </p>
+                    <p className='font-bold p-2'>
+                        Github: <a href="https://github.com/teolivan" className="text-blue-600 underline font-medium"
+                            target="_blank"
+                            rel="noopener noreferrer">https://github.com/teolivan</a>
+                    </p>
+
+                    <p className='font-bold p-2'>
+                        Codewars: <a href="https://www.codewars.com/users/teolivan" className="text-blue-600 underline font-medium"
+                            target="_blank"
+                            rel="noopener noreferrer">https://www.codewars.com/users/teolivan</a>
+                    </p>
+
+                    <p className='font-bold p-2'>
+                        Leetcode: <a href="https://leetcode.com/u/teoliva/" className="text-blue-600 underline font-medium"
+                            target="_blank"
+                            rel="noopener noreferrer">https://leetcode.com/u/teoliva/</a>
+                    </p>
+
+                    <p className='font-bold p-2'>
+                        OpenProcessing: <a href="https://openprocessing.org/user/346710?view=sketches" className="text-blue-600 underline font-medium"
+                            target="_blank"
+                            rel="noopener noreferrer">https://openprocessing.org/user/346710?view=sketches</a>
                     </p>
                 </div>
             </div>
