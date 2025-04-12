@@ -44,31 +44,31 @@ const page = () => {
                     <div className="flex justify-center space-x-4 py-8 items-baseline">
                         <a href="https://www.linkedin.com/in/olivia-svenssons/" className="text-blue-600 underline font-medium" target="_blank" rel="noopener noreferrer">
                             <img src="linkedin.svg" alt="Linkedin icon" className="h-10 m-5 align-baseline"                                 
-                            style={{ filter: 'brightness(0) saturate(100%) invert(25%) sepia(19%) saturate(586%) hue-rotate(178deg) brightness(93%) contrast(96%);' }}
+                            style={{ filter: 'brightness(0) saturate(100%) invert(25%) sepia(19%) saturate(586%) hue-rotate(178deg) brightness(93%) contrast(96%)' }}
                             />
                         </a>
 
                         <a href="https://github.com/teolivan" className="text-blue-600 underline font-medium" target="_blank" rel="noopener noreferrer">
                             <img src="github.svg" alt="Github icon" className="h-10 m-5 align-baseline"                                 
-                            style={{ filter: 'brightness(0) saturate(100%) invert(25%) sepia(19%) saturate(586%) hue-rotate(178deg) brightness(93%) contrast(96%);' }}
+                            style={{ filter: 'brightness(0) saturate(100%) invert(25%) sepia(19%) saturate(586%) hue-rotate(178deg) brightness(93%) contrast(96%)' }}
                             />
                         </a>
 
                         <a href="https://www.codewars.com/users/teolivan" className="text-blue-600 underline font-medium" target="_blank" rel="noopener noreferrer">
                             <img src="codewars.svg" alt="Codewars icon" className="h-10 m-5 align-baseline"                                
-                            style={{ filter: 'brightness(0) saturate(100%) invert(25%) sepia(19%) saturate(586%) hue-rotate(178deg) brightness(93%) contrast(96%);' }}
+                            style={{ filter: 'brightness(0) saturate(100%) invert(25%) sepia(19%) saturate(586%) hue-rotate(178deg) brightness(93%) contrast(96%)' }}
  />
                         </a>
 
                         <a href="https://leetcode.com/u/teoliva/" className="text-blue-600 underline font-medium" target="_blank" rel="noopener noreferrer">
                             <img src="leetcode.svg" alt="Leetcode icon" className="h-10 m-5 align-baseline"                                 
-                            style={{ filter: 'brightness(0) saturate(100%) invert(25%) sepia(19%) saturate(586%) hue-rotate(178deg) brightness(93%) contrast(96%);' }}
+                            style={{ filter: 'brightness(0) saturate(100%) invert(25%) sepia(19%) saturate(586%) hue-rotate(178deg) brightness(93%) contrast(96%)' }}
                             />
                         </a>
 
                         <a href="https://openprocessing.org/user/346710?view=sketches" className="text-blue-600 underline font-medium" target="_blank" rel="noopener noreferrer">
                         <img src="p5dotjs.svg" alt="p5js icon" className="h-10 m-5 align-baseline"
-                        style={{ filter: 'brightness(0) saturate(100%) invert(25%) sepia(19%) saturate(586%) hue-rotate(178deg) brightness(93%) contrast(96%);' }}
+                        style={{ filter: 'brightness(0) saturate(100%) invert(25%) sepia(19%) saturate(586%) hue-rotate(178deg) brightness(93%) contrast(96%)' }}
                         />                        
                         </a>
                     </div>
