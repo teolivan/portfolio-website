@@ -15,7 +15,7 @@ const page = () => {
                         Hello!👋 My name is Olivia.  
                         I am studying my second year of the program     <a 
                             href="https://mau.se/sok-utbildning/program/tgsya/" 
-                            className="text-blue-600 underline"
+                            className="text-cyan-700 hover:underline" 
                             target="_blank"
                             rel="noopener noreferrer"
                         >
