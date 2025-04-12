@@ -20,7 +20,7 @@ const page = () => {
                             rel="noopener noreferrer"
                         >
                              Systems Engineering with a specialization in computer systems development
-                        </a>   at Malmoe Univerity.
+                        </a>   at Malmö Univerity.
                         <br />
                         <br />
 
